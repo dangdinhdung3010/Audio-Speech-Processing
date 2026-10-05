@@ -1,0 +1,11 @@
+Tên file test,Nhãn thật,Nhãn dự đoán,Top-1 DTW score,Top-2 DTW score
+khong_04.wav,khong,mot,mot (45.93),khong (47.10)
+khong_05.wav,khong,hai,hai (49.32),khong (51.14)
+mot_04.wav,mot,mot,mot (48.04),hai (52.56)
+mot_05.wav,mot,mot,mot (46.35),ba (52.06)
+hai_04.wav,hai,hai,hai (43.97),ba (54.87)
+hai_05.wav,hai,hai,hai (42.78),ba (52.43)
+ba_04.wav,ba,ba,ba (34.87),hai (49.08)
+ba_05.wav,ba,ba,ba (34.09),hai (35.64)
+bon_04.wav,bon,bon,bon (34.78),ba (43.75)
+bon_05.wav,bon,bon,bon (31.83),mot (44.55)
